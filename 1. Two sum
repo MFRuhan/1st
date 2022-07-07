@@ -1,0 +1,9 @@
+a = [9,2,5,7,6]
+b = []
+
+for i in a:
+    for j in a:
+        if i + j == 11:
+            x = a.index(i)
+            y = a.index(j)
+            print(x,y)
