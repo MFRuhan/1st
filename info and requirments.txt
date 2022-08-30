@@ -1,0 +1,24 @@
+This ChatBot project has been created by M F Ruhan.
+But I have got help from many other such projects and many tutorials.
+
+Here are links to some of them-
+https://www.upgrad.com/blog/how-to-make-chatbot-in-python/
+https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/
+
+I have used Tensorflow, keras, nltk, tkinter* and some other libraries for creating it.So to run this project you must have any version of python3 and install the follwing libraries.
+
+pip install nltk
+py -m pip install tensorflow
+pip install keras
+pip install pandas
+pip install numpy
+pip install tk
+pip install pickle
+pip install PIL
+pip install json
+pip install random
+
+                --------------------0-----------------------
+
+"I hope that you may like this project. THANK YOU"- M F Ruhan
+
